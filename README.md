@@ -1,1 +1,1 @@
-# Fit analyze decoder
+# Fit analyzer decoder
